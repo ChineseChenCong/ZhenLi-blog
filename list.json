@@ -1,17 +1,12 @@
 [
     {
         "title": "Hello World",
-        "time": "2019-06-07",
+        "time": "06-26-109",
         "file": "posts/1.md"
     },
     {
-        "title": "如何部署这个博客程序",
-        "time": "2019-06-07",
-        "file": "posts/2.md"
-    },
-    {
-        "title": "如何编写文章",
-        "time": "2019-06-07",
+        "title": "網站須知",
+        "time": "06-26-109",
         "file": "posts/3.md"
     }
 ]
