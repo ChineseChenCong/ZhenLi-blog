@@ -2,16 +2,16 @@
     {
         "title": "Hello World",
         "time": "06-26-109",
-        "file": "posts/1.md"
+        "file": "帖子/1.md"
     },
     {
         "title": "測試文本",
         "time": "06-26-109",
-        "file": "posts/2.txt"
+        "file": "帖子/2.txt"
     },
     {
         "title": "網站須知",
         "time": "06-26-109",
-        "file": "posts/3.md"
+        "file": "帖子/3.md"
     }
 ]
